@@ -1,0 +1,5 @@
+.bundle/
+/bin/
+/vendor/
+!db/migrate/.gitkeep
+/db/*.sqlite3
